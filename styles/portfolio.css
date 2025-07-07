@@ -173,3 +173,9 @@ footer input[type="text"], footer input[type="email"], footer input[type="textar
     border: none;
 
 }
+
+
+.footer-column form input[type="submit"] {
+  display: block;
+  width: auto; 
+}
